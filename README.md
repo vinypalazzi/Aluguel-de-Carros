@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu projeto de aluguel de carros:
-
----
-
 # Sistema de Aluguel de Carros
 
 Este é um sistema simples para gerenciamento de aluguel de carros, desenvolvido em Java com base nos conceitos de Programação Orientada a Objetos (POO).
